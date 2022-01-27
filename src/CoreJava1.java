@@ -1,0 +1,16 @@
+//SYNTEX :  calss className
+
+public class CoreJava1 {
+    public static void main (String args[]){
+
+        System.out.println("Hello Java ");
+        System.out.println("Hello World ");
+        System.out.println("Hello World 2");
+        System.out.println("my favorite movie is ford vs ferreri");
+    }
+
+
+
+
+
+}
